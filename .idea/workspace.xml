@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4100a4cc-b0b7-4879-ac59-95700a16d1f9" name="Default Changelist" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" beforeDir="false" afterPath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" beforeDir="false" afterPath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,52 +17,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add/add.ts">
+        <entry file="file://$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addBorder/addBorder.ts">
+        <entry file="file://$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="7" selection-start-column="3" selection-end-line="8" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts">
+        <entry file="file://$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            <state relative-caret-position="204">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allLongestStrings/README.md">
+        <entry file="file://$PROJECT_DIR$/almostIncreasingSequence/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -73,28 +53,37 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/absoluteValuesSumMinization/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts" />
-        <option value="$PROJECT_DIR$/add/add.ts" />
-        <option value="$PROJECT_DIR$/addBorder/addBorder.ts" />
-        <option value="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" />
-        <option value="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" />
-        <option value="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" />
+        <option value="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,18 +95,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="100-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="100AlgorithmsChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100AlgorithmsChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="100-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="addBorder" type="462c0819:PsiDirectoryNode" />
+              <item name="100AlgorithmsChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100AlgorithmsChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="absoluteValuesSumMinization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="100-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="100AlgorithmsChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100AlgorithmsChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="allLongestStrings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100AlgorithmsChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100AlgorithmsChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="almostIncreasingSequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,7 +123,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 183.4139.35\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,20 +149,19 @@
       <updated>1544561431683</updated>
       <workItem from="1544561434782" duration="73000" />
       <workItem from="1544561529734" duration="643000" />
-      <workItem from="1544562206646" duration="546000" />
-      <workItem from="1544713703674" duration="3181000" />
-      <workItem from="1544774380662" duration="3409000" />
+      <workItem from="1544562206646" duration="894000" />
+      <workItem from="1545164227165" duration="1655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7852000" />
+    <option name="totallyTimeSpent" value="3265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22444679" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,9 +174,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32833788" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Quokka" order="12" weight="0.32912722" />
+      <window_info anchor="bottom" id="Quokka" order="12" weight="0.32833788" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,84 +188,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add/add.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addBorder/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addBorder/addBorder.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addTwoDigits/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="7" selection-start-column="3" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adjacentElementsProduct/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/absoluteValuesSumMinization/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allLongestStrings/README.md">
+    <entry file="file://$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/almostIncreasingSequence/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -280,10 +218,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts">
+    <entry file="file://$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
