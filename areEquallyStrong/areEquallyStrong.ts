@@ -1,5 +1,5 @@
 function areEquallyStrong(yourLeft: number, yourRight: number, friendsLeft: number, friendsRight: number): boolean {
-
+// pass it
 }
 
 // console.log(areEquallyStrong(10, 15, 15, 10))
